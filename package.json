@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/university-of-toronto-fsf/create-react-node-express-passport#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "if-env": "^1.0.4",
     "mongoose": "^5.9.20",
     "mysql2": "^2.1.0",
